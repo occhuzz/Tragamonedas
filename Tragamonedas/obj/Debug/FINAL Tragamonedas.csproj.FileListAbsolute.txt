@@ -1,0 +1,26 @@
+C:\Users\Diseño\Desktop\FINAL Tragamonedas\FINAL Tragamonedas\bin\Debug\FINAL Tragamonedas.exe.config
+C:\Users\Diseño\Desktop\FINAL Tragamonedas\FINAL Tragamonedas\obj\Debug\FINAL Tragamonedas.csprojResolveAssemblyReference.cache
+C:\Users\Diseño\Desktop\FINAL Tragamonedas\FINAL Tragamonedas\obj\Debug\FINAL_Tragamonedas.Form1.resources
+C:\Users\Diseño\Desktop\FINAL Tragamonedas\FINAL Tragamonedas\obj\Debug\FINAL_Tragamonedas.Form2.resources
+C:\Users\Diseño\Desktop\FINAL Tragamonedas\FINAL Tragamonedas\obj\Debug\FINAL_Tragamonedas.Properties.Resources.resources
+C:\Users\Diseño\Desktop\FINAL Tragamonedas\FINAL Tragamonedas\obj\Debug\FINAL Tragamonedas.csproj.GenerateResource.Cache
+C:\Users\Diseño\Desktop\FINAL Tragamonedas\FINAL Tragamonedas\bin\Debug\FINAL Tragamonedas.exe
+C:\Users\Diseño\Desktop\FINAL Tragamonedas\FINAL Tragamonedas\bin\Debug\FINAL Tragamonedas.pdb
+C:\Users\Diseño\Desktop\FINAL Tragamonedas\FINAL Tragamonedas\obj\Debug\FINAL Tragamonedas.exe
+C:\Users\Diseño\Desktop\FINAL Tragamonedas\FINAL Tragamonedas\obj\Debug\FINAL Tragamonedas.pdb
+C:\Users\Diseño\Desktop\FINAL Tragamonedas\FINAL Tragamonedas\obj\Debug\FINAL_Tragamonedas.Form3.resources
+C:\Users\Diseño\Desktop\FINAL Tragamonedas\FINAL Tragamonedas\obj\Debug\FINAL_Tragamonedas.Form4.resources
+C:\Users\Diseño\Desktop\FINAL Tragamonedas\FINAL Tragamonedas\obj\Debug\FINAL_Tragamonedas.Form5.resources
+C:\Users\Diseño\Desktop\FINALES\FINAL Tragamonedas\FINAL Tragamonedas\bin\Debug\FINAL Tragamonedas.exe.config
+C:\Users\Diseño\Desktop\FINALES\FINAL Tragamonedas\FINAL Tragamonedas\obj\Debug\FINAL Tragamonedas.exe
+C:\Users\Diseño\Desktop\FINALES\FINAL Tragamonedas\FINAL Tragamonedas\obj\Debug\FINAL Tragamonedas.pdb
+C:\Users\Diseño\Desktop\FINALES\FINAL Tragamonedas\FINAL Tragamonedas\bin\Debug\FINAL Tragamonedas.exe
+C:\Users\Diseño\Desktop\FINALES\FINAL Tragamonedas\FINAL Tragamonedas\bin\Debug\FINAL Tragamonedas.pdb
+C:\Users\Diseño\Desktop\FINALES\FINAL Tragamonedas\FINAL Tragamonedas\obj\Debug\FINAL Tragamonedas.csprojResolveAssemblyReference.cache
+C:\Users\Diseño\Desktop\FINALES\FINAL Tragamonedas\FINAL Tragamonedas\obj\Debug\FINAL_Tragamonedas.Form1.resources
+C:\Users\Diseño\Desktop\FINALES\FINAL Tragamonedas\FINAL Tragamonedas\obj\Debug\FINAL_Tragamonedas.Form2.resources
+C:\Users\Diseño\Desktop\FINALES\FINAL Tragamonedas\FINAL Tragamonedas\obj\Debug\FINAL_Tragamonedas.Form3.resources
+C:\Users\Diseño\Desktop\FINALES\FINAL Tragamonedas\FINAL Tragamonedas\obj\Debug\FINAL_Tragamonedas.Form4.resources
+C:\Users\Diseño\Desktop\FINALES\FINAL Tragamonedas\FINAL Tragamonedas\obj\Debug\FINAL_Tragamonedas.Form5.resources
+C:\Users\Diseño\Desktop\FINALES\FINAL Tragamonedas\FINAL Tragamonedas\obj\Debug\FINAL_Tragamonedas.Properties.Resources.resources
+C:\Users\Diseño\Desktop\FINALES\FINAL Tragamonedas\FINAL Tragamonedas\obj\Debug\FINAL Tragamonedas.csproj.GenerateResource.Cache
